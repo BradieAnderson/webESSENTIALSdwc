@@ -1,0 +1,40 @@
+//bash commands like cd are terminal commands for your specific, local machiene
+
+windows start menu cmd or command and command line stuff should show up
+
+it'll always open to user directory, including desktop
+
+dir on a windows will list all files/folders within the directory/folder youre in
+
+cd is change directory, so cd (name) will take you to that directory so liek cd desktop
+if you do mkdir (name) you can make a new directory from the command line
+
+to create a new file, you need to use the echo command
+Echo > folder/filename.extension
+
+you can remove a file by getting to the correct directory then
+rmdir (directory name)
+
+jquery.com is an ageing javascript assistant thats heading out but still
+
+it'll take 20 lines of code to 5, it's wild
+
+it's a download to local install or a cdn
+
+jquery can be locaded in body or terminal but custom scripts need to come after if in the body, it's easiest to put it in head tag
+
+then put a script tag in body at bottom <script src="demp.js"></script>
+
+bootstrap allows work w jquery
+adds gridsystem for markup and layout for easy layout, interactive static content oriented, saves tons of html architecture and css style (woo bootstrap!)
+
+you can download bootstrap or node package manager but you can add bootstrap direclty to yo stuff
+
+bootstrap
+the website has a top of stuff you can copy paste to design your portfolio like the first of class
+bootstrap is based off a 12 column system that are flexible and have a specific naming convention that allows you to control the row/column but the size/breakpoint of the columns
+
+base class name is column, the base classname will autolay out that'll span 100% width that are equal sizes
+
+bootstrap is mobile first which means all basic code should comfortably fit a phone, perfect considering who made it (twitter)
+

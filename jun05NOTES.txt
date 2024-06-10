@@ -1,0 +1,49 @@
+More bootstrap, mostly components not the grid system
+
+if you screw around w elements in google look at html, it'll actually change stuff
+on the website but won't save anything when you refresh! :D
+
+console is for the javalogs, we've done that before but you CAN write java in the console!
+so if you typed
+let x = 10;
+x;
+it would return 10 :D
+
+Sources will give site structure, css, pngs, javascript, source files
+SO MAKE SURE TO NAME THINGS APPROPIATLY
+You can also get changes on the webpage by editing this stuff that'll reset when refreshed
+
+Network will show filters by extension/file type, font, documents, media, etc
+
+performance
+monitors webpage and records
+
+Memory
+offers the option to follow up w your dom nodes etc
+
+Applications
+Meh
+
+Security
+give you the deets of what you're viewing from and how to view certificate/etc verify the Security
+
+Responsive device tool bar 
+Allows you to test your site on multople sizes without needing to physically resize the page
+
+you can change the settrings of this stuff to 2 different windows, top/bottom/side oriented
+
+You can also add new classes, which will then be reflected in the styles tab but lost when refreshed
+
+REMEMBER just because you can effect things on the web, that doesn't mean you have all the patches and downloads necessary to move their code from the web directly to your own "go live"
+
+Bootstrap components are more static, some interactive
+
+Nav bar, comizable to search and include image etc YOU CAN COMPLTELY CHANGE IT W CUSTOM CSS etc 
+
+the hamburger icon is TOTALLY a bootstrap thing lol
+
+remember bootstrap is mobile first
+
+use utility classes sparingly, except you will need them for margin/padding lol m margine p padding l r s e
+
+if it's shared on multiple pages, USE A STYLE SHEET

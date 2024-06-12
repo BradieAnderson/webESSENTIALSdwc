@@ -1,0 +1,23 @@
+git branching:
+
+creating another clone from your main/root, so multiple people can use the same repository but allows mutliple developers to work on it
+and then y'all can push changes to the repository after reviewal into a merg
+
+while you should try to always branch from the main, you can technically branch from another branch if you needed to
+
+if you command line git branch, it'll show you where you're at by highlighting the text in green and adding an astrisk
+
+If you wnat to make a new branch, you need to go to get branches add a new branch name the new branch
+
+branch - a will show all branches
+
+git commit -a -m "added title" will add and commit a new branch all at once
+
+PR also known as pull request is comparing changes between 2 branches
+
+Git branch: shows local branches
+Git branch -a: shows local and remote branches
+Git fetch: pulls all data from remote
+Git checkout <branch-name>: switches branches
+Git commit -a -m “message”: stages and commits message
+

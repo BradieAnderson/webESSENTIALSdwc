@@ -1,0 +1,56 @@
+WEB PACK 12JUN2024
+
+Bundle/package manager
+
+like virtual machienes where you can create your own invirnoment
+servers, dependancies, etc stored here
+
+bundle modules like react and javascript, webpack can be bundling them
+
+load ins plugs in outputs runtime modes
+
+manages your developemenr invirnoment with node and npm and make them easy to install very quickly
+
+pre packed with stuff for servers, etc, plug ins, templates
+
+store local dependancies
+
+hop into package json, use --save-dev, list packages, look for node modlues and package lock.json
+never touch node modlues or package.json
+
+create webpack config file
+
+CREATE:
+webpack.config.js
+src
+
+in src directory, create an index.js and a module like generateQuote.js
+
+put function in not index
+then export to index
+
+then make dist folder
+put a index.html
+........
+change package json
+add
+
+"build": "webpack",
+"dev": "webpack serve"
+
+under scripts
+
+build dist by typing npm run build
+
+cd to webpack directory and npm run build in terminal
+
+this will create bundle.js in dist and dynamically change stuff for us
+
+--save-dev webpack webpack-cli webpack-dev-server
+this goes after npm init
+
+add template html, adjust webpack to have more stuff, run build to check for issues
+
+npm run build does helpful stuff
+
+change title to <% ... %> one left most open bracket will stay red
